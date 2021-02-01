@@ -1,4 +1,5 @@
-<?php include('./_components/header.php'); ?>
-<p class="red">Color</p>
-<?php include('./_components/audio.php'); ?>
-<?php include('./_components/footer.php'); ?>
+<?php
+include('./_components/header.php');
+echo '<p class="blue">Color</p>';
+include('./_components/audio.php');
+include('./_components/footer.php');

@@ -1,7 +1,7 @@
 <?php
   // Variables
-  $title = 'About Title';
-  $name = 'Example Name';
+  $title = 'About Page';
+  $name = 'Example Author Name';
 
   // Page View Setup
   $childView = './_views/_about.php';
