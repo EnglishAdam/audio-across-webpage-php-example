@@ -4,7 +4,9 @@ This repo is a simple PHP example, to demonstrate to myself, the feasability of 
 
 The impetus to try this was to rethink/return-to web applications from the 'Progressive Enhancement' development position. SPA necessitate the use of client-side JavaScript, even if the initial webpage load is rendered on the server (SSR). Can I replicate feature sets with minimal JavaScript and no framework.
 
-This repo is structures with a lite layout system.
+This repo is structured with a lite layout system.
+
+You can find an online example hosted on a free Heroku dyno (You many need to wait 30secs for it to boot up) here: https://audio-across-webpage-php.herokuapp.com/
 
 A NodeJS/FastifyJS version of this can be found here: https://github.com/EnglishAdam/audio-across-webpage-example
 
